@@ -1,0 +1,16 @@
+DoomEdNums {
+	15000 = CryoBow
+	15001 = CryoBolts
+	15010 = Shadow
+
+	15100 = WhiteSparkSpawner
+	15101 = RedSparkSpawner
+	15102 = OrangeSparkSpawner
+	15103 = YellowSparkSpawner
+	15104 = GreenSparkSpawner
+	15105 = BlueSparkSpawner
+	15106 = PurpleSparkSpawner
+
+	15110 = Chair
+	15111 = DoomDoll
+}

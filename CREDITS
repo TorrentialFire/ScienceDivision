@@ -1,0 +1,36 @@
+Most of the resources used in this WAD are from the AMAZING repository at Realm667. A special thanks to the people who work on Realm667 and the ZDoom forums for keeping this community alive. Many thanks to the awesome Doom community for sharing resources like this and I hope that their use in this WAD does them justice.
+
+// Crybow
+ZZrionTheInsect - Base Sprite/Design/Idea, Final Crossbow head Design/Animation, cool "string" frames, being a pretty cool guy.
+		Implementation tweaks that I may not know of, came up with a way to shatter frozen corpses with a freezing weapon.
+
+Bloax - Shading tweaks, firing animation/design (this took some serious thinking), Additional firing animation tweak(, apparently made this thing go out of control)
+		Impact animation, Small implementation modifications. (Why is my list this big?)
+		
+Xaser - Implementation, Palette modifications (see: CryoPal.wad), Smoke (And probably more but Bloax is ignorant yes.)
+		Sound effects.
+		
+Ethril - Coming up with the insane idea that is called a "railgun crossbow", he should be put into a mental institution or somethin-
+		 OH WAIT NO THAT'S COMPLETELY AWESOME YES
+
+// Shadow
+Code: Vader, Ghastly Dragon (ZScript conversion)
+GLDefs: Ghastly Dragon, Sandypaper (Brightmaps)
+Sounds: Blizzard Entertainment, Vader
+Sprites: Vader
+Idea Base: Eternal Doom Fast Imp
+
+// Sparks
+Decorate: Solarsnowfall, Tormentor667, Ghastly_dragon
+GLDEFs: Ghastly_dragon
+Sprites: Tormentor667, Solarsnowfall
+
+// Chair
+Submitted: Ghastly_dragon
+Decorate: Ghastly_dragon
+Sprites: Id Software
+
+// DoomDoll
+Submitted: JoeyTD
+Decorate: JoeyTD
+Sprites: JoeyTD

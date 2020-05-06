@@ -1,0 +1,15 @@
+
+$random Shadow/active { act1 act2 }
+act1			SHDACT1
+act2			SHDACT2
+$random Shadow/pain { pain1 pain2 }
+pain1			SHDPAIN1
+pain2			SHDPAIN2
+Shadow/attack		SHDATTAK
+Shadow/death		SHDDEATH
+
+weapons/cryobowfire     DSBOWFIR
+weapons/cryobowshot     DSBOWSHT
+weapons/cryobowreload   DSBOWREL
+weapons/cryobowhit      DSBOWHIT
+weapons/cryobowflyby    DSBOWFLY
