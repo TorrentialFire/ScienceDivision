@@ -53,7 +53,7 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 370.9273f;
+		viewpositionx = 770.1989f;
 		defaulttoptexture = "DOORSTOP";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -69,20 +69,20 @@ maps
 			gridrotate = 0f;
 			backscalex = 100;
 			gridoriginx = 0f;
-			gridsize = 64f;
+			gridsize = 16f;
 			background = "";
 			backoffsety = 0;
 		}
 		overridebottomtexture = false;
 		defaultbottomtexture = "DOORSTOP";
 		defaultfloortexture = "FLAT14";
-		viewpositiony = 3509.879f;
+		viewpositiony = 3051.373f;
 		defaultwalltexture = "DOORSTOP";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.1060449f;
+		viewscale = 0.1060448f;
 		
 		fieldtypes
 		{
@@ -99,14 +99,14 @@ maps
 			
 			sector
 			{
-				rotationceiling = 17;
+				rotationceiling = 1;
 				xpanningceiling = 1;
 				ypanningceiling = 1;
-				rotationfloor = 17;
 				xscaleceiling = 1;
 				yscaleceiling = 1;
 				xpanningfloor = 1;
 				ypanningfloor = 1;
+				rotationfloor = 1;
 				xscalefloor = 1;
 				yscalefloor = 1;
 				lightfloor = 0;
