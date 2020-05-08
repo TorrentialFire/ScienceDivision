@@ -53,7 +53,7 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 610.0902f;
+		viewpositionx = 1154.776f;
 		defaulttoptexture = "DOORSTOP";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -76,13 +76,38 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "DOORSTOP";
 		defaultfloortexture = "FLAT14";
-		viewpositiony = 3496.533f;
+		viewpositiony = 3203.326f;
 		defaultwalltexture = "DOORSTOP";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.1060444f;
+		viewscale = 0.1127422f;
+		
+		plugins
+		{
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+				}
+			}
+			
+			threedfloormode
+			{
+				
+				controlsectorarea
+				{
+					usecustomtagrange = false;
+					outerleft = -512f;
+					outerright = 0f;
+					outertop = 512f;
+					outerbottom = 0f;
+				}
+			}
+		}
 		
 		fieldtypes
 		{
@@ -99,14 +124,14 @@ maps
 			
 			sector
 			{
-				rotationceiling = 1;
+				rotationceiling = 17;
 				xpanningceiling = 1;
 				ypanningceiling = 1;
 				xscaleceiling = 1;
 				yscaleceiling = 1;
 				xpanningfloor = 1;
 				ypanningfloor = 1;
-				rotationfloor = 1;
+				rotationfloor = 17;
 				xscalefloor = 1;
 				yscalefloor = 1;
 				lightfloor = 0;
@@ -132,8 +157,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 3277;
-				firstvisibleline = 115;
+				caretposition = 4650;
+				firstvisibleline = 89;
 				activetab = true;
 			}
 		}

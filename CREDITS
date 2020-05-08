@@ -1,5 +1,101 @@
 Most of the resources used in this WAD are from the AMAZING repository at Realm667. A special thanks to the people who work on Realm667 and the ZDoom forums for keeping this community alive. Many thanks to the awesome Doom community for sharing resources like this and I hope that their use in this WAD does them justice.
 
+// 5th Episode Texture Pack
+================================================================
+Title                   : 5th Episode textures (Doom 2 version)
+
+Filename                : nb5texd2.zip (nb5texd2.txt and nb5texd2.wad)
+
+Author                  : Nick Baker  
+		  
+Email Address           : nick@frad.org
+
+Description             : These textures were made for the Episode 5:
+			  In Thy Nightmares project.  As that seems to
+			  be completely dead, I'm releasing them for
+			  public use.
+
+Additional credits to   : submerge - he made all the N5VTX*** textures.
+
+			  scorpion - for hosting this file.
+
+			  afterglow - for hosting this file.  Also,
+			  several textures were heavily inspired by his
+			  SacrificeDM wad.
+			  
+================================================================
+* What is included *
+Graphics                : Yes
+Anything else		: No
+
+* Construction *
+Base                    : Various Doom1/2 textures
+Build time		: A few hours
+Editor(s) used          : WinTex v4.3
+			  Paintshop Pro v6.00
+Known Bugs              : None
+
+* Copyright / Permissions *
+Authors MAY use the contents of this file as a base for modification 
+or reuse.
+You MAY distribute this file, provided you include this text file, with
+no modifications.
+You may distribute this file in any electronic format (BBS, Diskette,
+CD, etc) as long as you include this file intact.
+
+* Where to get this WAD *
+http://haunt.8m.com/textures.html
+http://www.doomworld.com/afterglow/textures.shtml
+
+
+// Useful flats
+================================================================
+Title                   : Useful flats
+
+Filename                : nb_flats.zip (nb_flats.txt and nb_flats.wad)
+
+Author                  : Nick Baker
+		  
+Email Address           : nick@frad.org
+
+Description             : A collection of around 50 flats which almost
+			  any level designer may find pretty handy.
+
+			  These include flats to go with certain
+			  textures (e.g. BROWN1, PANx, STARx, TEKGRENx),
+			  rotated versions of existing flats, etc.
+
+Additional credits to:	: ID Software for the original textures.
+================================================================
+
+* What is included *
+Graphics                : Yes
+Anything else		: No
+
+* Construction *
+Base                    : Various Doom 2 textures and flats
+Build time		: A few hours
+Editor(s) used          : WinTex v4.3
+			  Texsynth v0.3
+			  Paintshop Pro v6.00, v7.00
+Known Bugs              : None
+
+* Copyright / Permissions *
+Authors MAY use the contents of this file as a base for modification 
+or reuse.
+You MAY distribute this file, provided you include this text file, with
+no modifications.
+You may distribute this file in any electronic format (BBS, Diskette,
+CD, etc) as long as you include this file intact.
+
+* Where to get this WAD *
+http://haunt.8m.com/textures.html
+
+// Black Green Tech Textures Pack
+Conversion: N/A
+Author: Agaures (aka Krumzy)
+Submitted: Agaures (aka Krumzy)
+
 // Crybow
 ZZrionTheInsect - Base Sprite/Design/Idea, Final Crossbow head Design/Animation, cool "string" frames, being a pretty cool guy.
 		Implementation tweaks that I may not know of, came up with a way to shatter frozen corpses with a freezing weapon.
