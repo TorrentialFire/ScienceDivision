@@ -53,7 +53,7 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 770.1989f;
+		viewpositionx = 610.0902f;
 		defaulttoptexture = "DOORSTOP";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -76,13 +76,13 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "DOORSTOP";
 		defaultfloortexture = "FLAT14";
-		viewpositiony = 3051.373f;
+		viewpositiony = 3496.533f;
 		defaultwalltexture = "DOORSTOP";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.1060448f;
+		viewscale = 0.1060444f;
 		
 		fieldtypes
 		{
